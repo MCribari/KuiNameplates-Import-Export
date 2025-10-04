@@ -1,6 +1,6 @@
 ## KuiNameplates addon for Bronzebeard
 
-- Added import/export profiles functions to the addon, you can find it inside the profiles tab in the addon configuration.
+- Added import/export profile functions to the addon, you can find it inside the profiles tab in the addon configuration.
 - For more info about the addon look the original post here: https://www.curseforge.com/wow/addons/kuinameplates
 
 ---
